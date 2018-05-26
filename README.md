@@ -1,5 +1,5 @@
 # wechat_miniapp_mytododemo
-我的第一个微信小程序,参考一个demo,自己写的, 作为了解小程序的开始
+我的第一个微信小程序,参考一个demo,自己写的, 作为了解小程序的开始\n
 参考源:
 https://github.com/zce/weapp-todos
 
